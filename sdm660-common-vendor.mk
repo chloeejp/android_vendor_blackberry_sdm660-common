@@ -424,7 +424,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@4.0-service.xml \
     adpl \
     trace_util \
-    trace_syncprop \
     cnd \
     cnss-daemon \
     dpmQmiMgr \
