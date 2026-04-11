@@ -273,8 +273,6 @@ PRODUCT_PACKAGES += \
     libizat_core \
     liblbs_core \
     libloc_api_v02 \
-    libloc_pla \
-    libloc_stub \
     libloc_socket \
     liblocationservice \
     liblocationservice_glue \
